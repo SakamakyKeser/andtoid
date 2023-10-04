@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "C:\\Users\\logce\\.gradle\\daemon\\8.0\\com.example.task1.app-merged_res-28:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\logce\\.gradle\\daemon\\8.0\\com.example.task1.app-main-30:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\logce\\.gradle\\daemon\\8.0\\com.example.task1.app-merged_res-28:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\logce\\.gradle\\daemon\\8.0\\com.example.task1.app-main-30:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\logce\\.gradle\\daemon\\8.0\\com.example.task1.app-merged_res-28:\\layout_activity_on_board.xml.flat",
+        "source": "C:\\Users\\logce\\.gradle\\daemon\\8.0\\com.example.task1.app-main-30:\\layout\\activity_on_board.xml"
+    },
+    {
+        "merged": "C:\\Users\\logce\\.gradle\\daemon\\8.0\\com.example.task1.app-merged_res-28:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\logce\\.gradle\\daemon\\8.0\\com.example.task1.app-main-30:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\logce\\.gradle\\daemon\\8.0\\com.example.task1.app-merged_res-28:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\logce\\.gradle\\daemon\\8.0\\com.example.task1.app-main-30:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\logce\\.gradle\\daemon\\8.0\\com.example.task1.app-merged_res-28:\\drawable_krug1.png.flat",
+        "source": "C:\\Users\\logce\\.gradle\\daemon\\8.0\\com.example.task1.app-main-30:\\drawable\\krug1.png"
+    },
+    {
+        "merged": "C:\\Users\\logce\\.gradle\\daemon\\8.0\\com.example.task1.app-merged_res-28:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\logce\\.gradle\\daemon\\8.0\\com.example.task1.app-main-30:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\logce\\.gradle\\daemon\\8.0\\com.example.task1.app-merged_res-28:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\logce\\.gradle\\daemon\\8.0\\com.example.task1.app-main-30:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.task1.app-merged_res-28:/layout_activity_linear_on_board2.xml.flat",
+        "source": "com.example.task1.app-main-30:/layout/activity_linear_on_board2.xml"
+    },
+    {
+        "merged": "C:\\Users\\logce\\.gradle\\daemon\\8.0\\com.example.task1.app-merged_res-28:\\drawable_probirka.png.flat",
+        "source": "C:\\Users\\logce\\.gradle\\daemon\\8.0\\com.example.task1.app-main-30:\\drawable\\probirka.png"
+    },
+    {
+        "merged": "C:\\Users\\logce\\.gradle\\daemon\\8.0\\com.example.task1.app-merged_res-28:\\drawable_krug2.png.flat",
+        "source": "C:\\Users\\logce\\.gradle\\daemon\\8.0\\com.example.task1.app-main-30:\\drawable\\krug2.png"
+    },
+    {
+        "merged": "C:\\Users\\logce\\.gradle\\daemon\\8.0\\com.example.task1.app-merged_res-28:\\drawable_zastavka.png.flat",
+        "source": "C:\\Users\\logce\\.gradle\\daemon\\8.0\\com.example.task1.app-main-30:\\drawable\\zastavka.png"
+    },
+    {
+        "merged": "C:\\Users\\logce\\.gradle\\daemon\\8.0\\com.example.task1.app-merged_res-28:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\logce\\.gradle\\daemon\\8.0\\com.example.task1.app-main-30:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\logce\\.gradle\\daemon\\8.0\\com.example.task1.app-merged_res-28:\\layout_activity_linear_on_board3.xml.flat",
+        "source": "C:\\Users\\logce\\.gradle\\daemon\\8.0\\com.example.task1.app-main-30:\\layout\\activity_linear_on_board3.xml"
+    },
+    {
+        "merged": "C:\\Users\\logce\\.gradle\\daemon\\8.0\\com.example.task1.app-merged_res-28:\\drawable_shape1.png.flat",
+        "source": "C:\\Users\\logce\\.gradle\\daemon\\8.0\\com.example.task1.app-main-30:\\drawable\\shape1.png"
+    },
+    {
+        "merged": "C:\\Users\\logce\\.gradle\\daemon\\8.0\\com.example.task1.app-merged_res-28:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\logce\\.gradle\\daemon\\8.0\\com.example.task1.app-main-30:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\logce\\.gradle\\daemon\\8.0\\com.example.task1.app-merged_res-28:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\logce\\.gradle\\daemon\\8.0\\com.example.task1.app-main-30:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\logce\\.gradle\\daemon\\8.0\\com.example.task1.app-merged_res-28:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\logce\\.gradle\\daemon\\8.0\\com.example.task1.app-main-30:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\logce\\.gradle\\daemon\\8.0\\com.example.task1.app-merged_res-28:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\logce\\.gradle\\daemon\\8.0\\com.example.task1.app-main-30:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\logce\\.gradle\\daemon\\8.0\\com.example.task1.app-merged_res-28:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\logce\\.gradle\\daemon\\8.0\\com.example.task1.app-main-30:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\logce\\.gradle\\daemon\\8.0\\com.example.task1.app-merged_res-28:\\drawable_people.png.flat",
+        "source": "C:\\Users\\logce\\.gradle\\daemon\\8.0\\com.example.task1.app-main-30:\\drawable\\people.png"
+    },
+    {
+        "merged": "C:\\Users\\logce\\.gradle\\daemon\\8.0\\com.example.task1.app-merged_res-28:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\logce\\.gradle\\daemon\\8.0\\com.example.task1.app-main-30:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\logce\\.gradle\\daemon\\8.0\\com.example.task1.app-merged_res-28:\\drawable_people1.png.flat",
+        "source": "C:\\Users\\logce\\.gradle\\daemon\\8.0\\com.example.task1.app-main-30:\\drawable\\people1.png"
+    },
+    {
+        "merged": "C:\\Users\\logce\\.gradle\\daemon\\8.0\\com.example.task1.app-merged_res-28:\\layout_activity_on_board2.xml.flat",
+        "source": "C:\\Users\\logce\\.gradle\\daemon\\8.0\\com.example.task1.app-main-30:\\layout\\activity_on_board2.xml"
+    },
+    {
+        "merged": "C:\\Users\\logce\\.gradle\\daemon\\8.0\\com.example.task1.app-merged_res-28:\\layout_activity_on_board3.xml.flat",
+        "source": "C:\\Users\\logce\\.gradle\\daemon\\8.0\\com.example.task1.app-main-30:\\layout\\activity_on_board3.xml"
+    },
+    {
+        "merged": "C:\\Users\\logce\\.gradle\\daemon\\8.0\\com.example.task1.app-merged_res-28:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\logce\\.gradle\\daemon\\8.0\\com.example.task1.app-main-30:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\logce\\.gradle\\daemon\\8.0\\com.example.task1.app-merged_res-28:\\layout_activity_linear_on_board.xml.flat",
+        "source": "C:\\Users\\logce\\.gradle\\daemon\\8.0\\com.example.task1.app-main-30:\\layout\\activity_linear_on_board.xml"
+    },
+    {
+        "merged": "C:\\Users\\logce\\.gradle\\daemon\\8.0\\com.example.task1.app-merged_res-28:\\drawable_krug3.png.flat",
+        "source": "C:\\Users\\logce\\.gradle\\daemon\\8.0\\com.example.task1.app-main-30:\\drawable\\krug3.png"
+    },
+    {
+        "merged": "com.example.task1.app-merged_res-28:/layout_activity_linear_on_board.xml.flat",
+        "source": "com.example.task1.app-main-30:/layout/activity_linear_on_board.xml"
+    },
+    {
+        "merged": "C:\\Users\\logce\\.gradle\\daemon\\8.0\\com.example.task1.app-merged_res-28:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\logce\\.gradle\\daemon\\8.0\\com.example.task1.app-main-30:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\logce\\.gradle\\daemon\\8.0\\com.example.task1.app-merged_res-28:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\logce\\.gradle\\daemon\\8.0\\com.example.task1.app-main-30:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\logce\\.gradle\\daemon\\8.0\\com.example.task1.app-merged_res-28:\\layout_activity_linear_on_board2.xml.flat",
+        "source": "C:\\Users\\logce\\.gradle\\daemon\\8.0\\com.example.task1.app-main-30:\\layout\\activity_linear_on_board2.xml"
+    },
+    {
+        "merged": "C:\\Users\\logce\\.gradle\\daemon\\8.0\\com.example.task1.app-merged_res-28:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\logce\\.gradle\\daemon\\8.0\\com.example.task1.app-main-30:\\mipmap-hdpi\\ic_launcher_round.webp"
+    }
+]
